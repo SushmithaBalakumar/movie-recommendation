@@ -203,18 +203,3 @@ These visualizations help analyze recommendation quality.
 * Matplotlib
 * Seaborn
 * Pickle
-
-# Future Improvements
-
-* Hybrid recommendation system
-* Deep learning based recommendations
-* Real-time user preference learning
-* Web deployment
-* Improved evaluation metrics (MAP, NDCG)
-
-
-Which makes it **much stronger for internships**.
-
----
-
-If you want, I can also show you **3 small improvements that would make this project look much more impressive on GitHub (without changing your code much).**
